@@ -4,7 +4,7 @@ Esta entrega corresponde a una pieza narrativa individual desarrollada en HTML p
 
 ## Tema de la pieza
 
-La cápsula se enfoca en el caso de Chile y observa la presencia de artistas chilenos y no chilenos dentro del Top 50 de Spotify. El objetivo es mostrar cómo el ranking chileno combina música local con tendencias latinoamericanas e internacionales.
+Se enfoca en el caso de Chile y observa la presencia de artistas chilenos y no chilenos dentro del Top 50 de Spotify. El objetivo es mostrar cómo el ranking chileno combina música local con tendencias latinoamericanas e internacionales.
 
 ## Proceso de trabajo
 
